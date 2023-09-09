@@ -1,0 +1,60 @@
+.titulo{ 
+    color: red;
+    text-align: center;
+    background-color: gray ;
+    border:solid #000 1px; 
+}
+.parrafo{
+    text-align: center;
+    font-size:x-large;
+    font-family:'Times New Roman', Times, serif;
+
+}
+.nominados{
+    color: greenyellow;
+    text-align: left;
+}
+table{
+    width: 50%;
+    border-collapse:collapse;
+}
+th, td{
+    border: solid #000;
+}
+th{
+    background-color: aquamarine;
+}
+td{
+    text-align: center;
+}
+tr:hover{
+    background-color: darkgray;
+    cursor: pointer;
+}
+.op{
+    font-size: large;
+    position:absolute; right: 60px; top: 250px;
+    border:solid 1px;
+}
+span{
+    color: blue;
+}
+.img1{
+    width: 170px;
+    position:absolute; left: 90px; top: 415px;
+    border-radius: 5%;
+    border:solid #000;
+}
+.img2{
+    width: 120px;
+    position:absolute; left: 625px; top: 415px;
+    border-radius: 5%;
+    border:solid #000;
+}
+.img3{
+    width: 126px;
+    position:absolute; right: 90px; top: 415px;
+    border-radius: 5%;
+    border:solid #000
+}
+
