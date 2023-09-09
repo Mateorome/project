@@ -1,12 +1,4 @@
-let a = 1230;
-let b = 897;
+let largo = 20;
+let ancho = 7;
 
-if (b < a) {
-    setTimeout(() => {
-        alert("el numero menor es: " + b);
-    },4000);
-} else {
-    setTimeout(() => {
-        alert("el numero mayor es: " + a);
-    },4000);
-}
+console.log("el area de el rectangulo es " +  largo*ancho)
